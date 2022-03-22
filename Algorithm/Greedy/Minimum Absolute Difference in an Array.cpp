@@ -1,5 +1,5 @@
 int minimumAbsoluteDifference(vector<int> arr) {
-    sort(arr.begin(), arr.end());// first sort the array
+    sort(arr.begin(), arr.end());// first sort the array a
     
     int minimumDifference = INT_MAX;
 
